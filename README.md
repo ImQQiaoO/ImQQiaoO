@@ -2,9 +2,11 @@
 
 <!--![ImQQiaoO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImQQiaoO&include_all_commits=true,&count_private=true,&hide=stars,&theme=swift)-->
 <br>
+<!--
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImQQiaoO&include_all_commits=true,&count_private=true,&hide=stars,&theme=swift" />
 </p>  
+-->
 <!-- <img align="right" src="./images/github_doll.gif" /> -->
 
 
