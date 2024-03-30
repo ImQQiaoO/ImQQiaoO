@@ -1,5 +1,11 @@
 <h1 align="center">``std::cout << "👋Hello!" << std::endl;`` </h1> 
 
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImQQiaoO&layout=compact)](https://github.com/ImQQiaoO/github-readme-stats)
+
+</div>
+
 <!--![ImQQiaoO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImQQiaoO&include_all_commits=true,&count_private=true,&hide=stars,&theme=swift)-->
 <br>
 <!--
@@ -16,11 +22,6 @@
 
 <br>
 
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImQQiaoO&layout=compact)](https://github.com/ImQQiaoO/github-readme-stats)
-
-</div>
 
 
 
