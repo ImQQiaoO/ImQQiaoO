@@ -9,10 +9,18 @@
 -->
 <!-- <img align="right" src="./images/github_doll.gif" /> -->
 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ImQQiaoO/ImQQiaoO/output/github-contribution-grid-snake.svg" alt="Your Image">
 </div>
 
+<br>
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImQQiaoO&layout=compact)](https://github.com/ImQQiaoO/github-readme-stats)
+
+</div>
 
 
 
