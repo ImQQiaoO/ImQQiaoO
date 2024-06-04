@@ -1,6 +1,6 @@
 <h1 align="center">std::cout << "👋你好!" << std::endl; </h1> 
 
-<p align="center"><b>新的转机和闪闪的星斗，</b></p> 
+<p align="center"><b>新的转机和闪闪星斗，</b></p> 
 <p align="center"><b>正在缀满没有遮拦的天空。</b></p> 
 <p align="center"><b>那是五千年的象形文字，</b></p> 
 <p align="center"><b>那是未来人们凝视的眼睛。</b>
