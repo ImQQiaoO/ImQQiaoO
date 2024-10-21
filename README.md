@@ -1,9 +1,9 @@
-<h1 align="center">std::cout << "👋你好!" << std::endl; </h1> 
+<h1 align="center">std::cout << "👋Greetings, traveler." << std::endl; </h1> 
 
-<p align="center"><b>新的转机和闪闪星斗，</b></p> 
-<p align="center"><b>正在缀满没有遮拦的天空。</b></p> 
-<p align="center"><b>那是五千年的象形文字，</b></p> 
-<p align="center"><b>那是未来人们凝视的眼睛。</b>
+<p align="center"><b>New turning points and stars that gleam,</b></p> 
+<p align="center"><b>Now fill the sky, unbound, supreme.</b></p> 
+<p align="center"><b>They are five thousand years of signs,</b></p> 
+<p align="center"><b>They are the gazing eyes of future minds.</b>
 </p> 
 
 <div align="center">
