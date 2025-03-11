@@ -9,7 +9,21 @@
 <div align="center">
   
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImQQiaoO&layout=compact)](https://github.com/ImQQiaoO/github-readme-stats)-->
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!--![](./profile-3d-contrib/profile-green-animate.svg)-->
+
+<picture>
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImQQiaoO&theme=nord_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImQQiaoO&theme=buefy"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+
 
 </div>
 
