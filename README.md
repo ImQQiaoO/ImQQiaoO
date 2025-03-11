@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ImQQiaoO&show_icons=false&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=ImQQiaoO&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true" />
 
 </div>
 
