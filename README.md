@@ -15,7 +15,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImQQiaoO&theme=default"
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImQQiaoO&theme=graywhite"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
@@ -28,7 +28,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImQQiaoO&theme=default&utcOffset=8"
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImQQiaoO&theme=graywhite&utcOffset=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
