@@ -24,7 +24,7 @@
 <!--<img align="right" src="./images/github_doll.gif" />-->
 <picture>
   <source
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImQQiaoO&theme=default&offset=8""
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImQQiaoO&theme=apprentice&utcOffset=8"
     media="(prefers-color-scheme: dark)"
   />
   <source
