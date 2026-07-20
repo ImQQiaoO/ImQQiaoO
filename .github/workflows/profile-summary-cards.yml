@@ -21,4 +21,5 @@ jobs:
           USERNAME: ImQQiaoO
           BRANCH_NAME: "main"
           UTC_OFFSET: 8
+          EXLCUDE: "Java"
           AUTO_PUSH: true
