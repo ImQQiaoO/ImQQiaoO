@@ -22,7 +22,7 @@
 </picture>
 
 <!--<img align="right" src="./images/github_doll.gif" />-->
-<picture>
+<!-- <picture>
   <source
     srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImQQiaoO&theme=apprentice&utcOffset=8"
     media="(prefers-color-scheme: dark)"
@@ -32,7 +32,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+</picture> -->
 
 
 
